@@ -1,0 +1,10 @@
+{
+  "app.css": "css/styles.css",
+  "app.css.map": "css/styles.css.map",
+  "app.js": "scripts/app.js",
+  "app.js.map": "scripts/app.js.map",
+  "favicon.ico": "favicon.ico",
+  "img-not-available.jpg": "a19ecff5405ea5c5f60f9308184c8be9.jpg",
+  "vendor.js": "scripts/vendor.js",
+  "vendor.js.map": "scripts/vendor.js.map"
+}
