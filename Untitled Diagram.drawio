@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T02:06:14.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-PV2ezkDNs-4gg-aT9z_" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T02:09:19.576Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mqDWB0J0vgZ7j29lDCK1" version="14.6.13" type="github">
   <diagram id="QcE3eUY1xfdvnFjCT1fq" name="Page-1">
     <mxGraphModel dx="926" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,6 +132,12 @@
         </mxCell>
         <mxCell id="CEnsXvZs_I40ct4Bp590-56" value="Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CEnsXvZs_I40ct4Bp590-54">
           <mxGeometry x="60" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CEnsXvZs_I40ct4Bp590-58" value="Redux Persist" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#FFB8D2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CEnsXvZs_I40ct4Bp590-59" value="&lt;font style=&quot;font-size: 6px&quot;&gt;Cached&amp;nbsp; TTL&lt;/font&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#FFB8D2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="114" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
